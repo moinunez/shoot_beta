@@ -1,24 +1,9 @@
-# README
+# SHOOT Beta 2.0
+This is the second itteration of the shootwithshoot.com website. This version will be able to have customer/photographer log-in system, meaning there will be a front end and a back end to it. 
+# Status
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# Running the Website
+[Shoot Website](www.shootwithshoot.com)
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+# Architecture 
+Currently setting up Amazon Web Services (AWS). Architecture TBA
