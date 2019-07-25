@@ -3,7 +3,7 @@ This is the second itteration of the shootwithshoot.com website. This version wi
 # Status
 
 # Running the Website
-[Shoot Website](https://hardcore-chandrasekhar-e47104.netlify.com/)
+[Shoot Website](https://shootwithshoot.netlify.com/)
 
 # Architecture 
 Currently setting up Amazon Web Services (AWS). Architecture TBA
