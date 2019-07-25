@@ -1,0 +1,22 @@
+{
+  "name": "shoot_beta",
+  "version": "1.0.0",
+  "description": "This is the second itteration of the shootwithshoot.com website. This version will be able to have customer/photographer log-in system, meaning there will be a front end and a back end to it. \r # Status",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/moinunez/shoot_beta.git"
+  },
+  "author": "Moises Nunez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/moinunez/shoot_beta/issues"
+  },
+  "homepage": "https://github.com/moinunez/shoot_beta#readme",
+  "dependencies": {
+    "bootstrap": "^4.3.1"
+  }
+}
